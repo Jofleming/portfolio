@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Jordan Fleming. Chemist turned coder. I'm a student at Code Fellows learning full stack development. Currently using languages HTML, CSS, JavaScript, and React.",
+      "description_header": "Hello",
+      "description": "👋 I am Jordan Fleming. Chemist turned coder. I'm a student at Code Fellows learning full stack development. Currently using languages HTML, CSS, JavaScript, and React. I am currently working at shifting careers into the tech industry where I am hoping to find more fulfilling and rewarding work.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
