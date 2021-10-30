@@ -1,16 +1,16 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
+      "name": "Jordan Fleming",
       "titles": [ "Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Jofleming",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/_jordan_fleming//",
           "class": "fab fa-instagram"
         }
       ],
