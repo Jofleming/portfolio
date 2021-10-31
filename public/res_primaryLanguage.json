@@ -11,12 +11,12 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "301 Final Placeholder",
+        "startDate": "2021",
+        "description": "Placeholder text for final project.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/301finalproject/p1.jpg",
+          "images/portfolio/301finalproject/p2.jpg"
         ],
         "url": "",
         "technologies": [
@@ -35,29 +35,33 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "BlackJack",
+        "startDate": "2021",
+        "description": "My first final project during my coding schooling. I worked on a team of four to create and deploy a working blackjack game using HTML, CSS, and JavaScript. I have learned a lot since then but I am still proud of it!",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/blackjack/blackjack2.jpg",
+          "images/portfolio/blackjack/blackjack1.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://minxie97.github.io/blackjack/",
         "technologies": [
           {
             "class": "devicon-react-original",
-            "name": "React"
+            "name": "CSS"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "HTML"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "301 Project 2 Placeholder",
+        "startDate": "2021",
+        "description": "Would like to save this space for a bit more impressive of an app.",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -65,16 +69,8 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class":"devicon-react-original",
+            "name": "React"
           }
         ]
       }
