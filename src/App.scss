@@ -30,6 +30,7 @@ html {
 }
 
 header {
+	color: white;
 	position: relative;
 	height: 520px;
 	min-height: 450px;
@@ -38,7 +39,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #5570A1;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -178,7 +179,7 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: black;
+	color: white;
 	text-align: center;
 }
 
@@ -231,7 +232,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #5570A1;
 }
 
 .experience-icon {
@@ -353,7 +354,9 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background-image: url("./linkedinbanner.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 	padding-bottom: 5%;
 }
 
@@ -397,12 +400,12 @@ header h1 {
 }
 
 .section-title {
+	color: white;
 	padding-top: 5%;
 	padding-bottom: 5%;
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: #fff;
 	text-align: center;
 }
 
